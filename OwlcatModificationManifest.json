@@ -1,0 +1,7 @@
+{
+    "UniqueName": "SpellSpec_EleBloodline",
+    "Version": "1.0.0",
+    "DisplayName": "Elemental Bloodline Spellspec Fix",
+    "Description": "Adds unique burning hands and scorching ray spells for elemental bloodlines to the spell specialization feat",
+    "Author": "HeroOfCows"
+}
